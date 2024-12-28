@@ -3,7 +3,8 @@
     "name":"Device Maker",
     "codeowners": ["@AdarWa"],
     "iot_class":"local_polling",
-    "documentation": "https://www.example.com",
+    "documentation": "https://github.com/AdarWa/device_maker",
+    "issue_tracker": "https://github.com/AdarWa/device_maker/issues",
     "version": "1.0.0",
     "config_flow": true
 }
